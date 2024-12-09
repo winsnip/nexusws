@@ -27,7 +27,7 @@
    ```
 3. Change File Permissions
    ```
-   git clone 
+   git clone https://github.com/winsnip/nexusws.git
    chmod +x run.sh
    ```
 4. Run Script
