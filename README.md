@@ -15,11 +15,10 @@
 
 ### Step 2: Run Nexus
 
-1. **Create a Folder**
-   Create a new directory for Nexus and navigate into it:
+1. **Clone Repository**
    ```bash
-   mkdir nexus
-   cd nexus
+    git clone https://github.com/winsnip/nexusws.git
+    cd nexusws
 
 2. Process On Screen
    ```
@@ -27,7 +26,6 @@
    ```
 3. Change File Permissions
    ```
-   git clone https://github.com/winsnip/nexusws.git
    chmod +x run.sh
    ```
 4. Run Script
